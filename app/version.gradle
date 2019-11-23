@@ -1,0 +1,5 @@
+final def var = ext {
+    appVersionName = '1.3.0'
+    appVersionCode = 1
+}
+var
